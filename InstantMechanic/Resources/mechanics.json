@@ -1,0 +1,223 @@
+[
+  {
+    "id": 1,
+    "name": "Instant Auto Care",
+    "rating": 4.7,
+    "distance": 2.4,
+    "location": "Sector 44, Gurgaon",
+    "isOpen": true,
+    "services": ["Car Service", "Battery", "Tyre"],
+    "workingHours": "9:00 AM - 8:00 PM",
+    "phoneNumber": "+91 9876543210"
+  },
+  {
+    "id": 2,
+    "name": "Pro Motors",
+    "rating": 4.5,
+    "distance": 4.1,
+    "location": "Gurgaon",
+    "isOpen": true,
+    "services": ["AC Repair", "Engine", "Brake"],
+    "workingHours": "10:00 AM - 7:00 PM",
+    "phoneNumber": "+91 9876543211"
+  },
+  {
+    "id": 3,
+    "name": "Quick Fix Garage",
+    "rating": 4.2,
+    "distance": 5.8,
+    "location": "Sector 21, Gurgaon",
+    "isOpen": false,
+    "services": ["Car Service", "Brake", "Battery"],
+    "workingHours": "9:00 AM - 6:00 PM",
+    "phoneNumber": "+91 9876543212"
+  },
+  {
+    "id": 4,
+    "name": "Speedy Wheels Garage",
+    "rating": 4.8,
+    "distance": 1.6,
+    "location": "DLF Phase 3, Gurgaon",
+    "isOpen": true,
+    "services": ["Tyre", "Wheel Alignment", "Car Service"],
+    "workingHours": "8:00 AM - 9:00 PM",
+    "phoneNumber": "+91 9876543213"
+  },
+  {
+    "id": 5,
+    "name": "Royal Auto Works",
+    "rating": 4.3,
+    "distance": 3.2,
+    "location": "Sector 14, Gurgaon",
+    "isOpen": true,
+    "services": ["Engine", "Brake", "Oil Change"],
+    "workingHours": "9:30 AM - 8:00 PM",
+    "phoneNumber": "+91 9876543214"
+  },
+  {
+    "id": 6,
+    "name": "Bike Doctor",
+    "rating": 4.6,
+    "distance": 2.8,
+    "location": "Sector 29, Gurgaon",
+    "isOpen": false,
+    "services": ["Bike Service", "Tyre", "Battery"],
+    "workingHours": "10:00 AM - 7:30 PM",
+    "phoneNumber": "+91 9876543215"
+  },
+  {
+    "id": 7,
+    "name": "Metro Car Clinic",
+    "rating": 4.4,
+    "distance": 6.3,
+    "location": "Sohna Road, Gurgaon",
+    "isOpen": true,
+    "services": ["Car Service", "AC Repair", "Battery"],
+    "workingHours": "9:00 AM - 8:30 PM",
+    "phoneNumber": "+91 9876543216"
+  },
+  {
+    "id": 8,
+    "name": "Highway Mechanic Hub",
+    "rating": 4.1,
+    "distance": 7.5,
+    "location": "Sector 48, Gurgaon",
+    "isOpen": true,
+    "services": ["Engine", "Tyre", "Towing"],
+    "workingHours": "8:00 AM - 10:00 PM",
+    "phoneNumber": "+91 9876543217"
+  },
+  {
+    "id": 9,
+    "name": "Auto Expert Garage",
+    "rating": 4.9,
+    "distance": 3.9,
+    "location": "Sector 56, Gurgaon",
+    "isOpen": true,
+    "services": ["Car Service", "Brake", "Wheel Alignment"],
+    "workingHours": "8:30 AM - 9:00 PM",
+    "phoneNumber": "+91 9876543218"
+  },
+  {
+    "id": 10,
+    "name": "Green Wheels Service",
+    "rating": 4.0,
+    "distance": 8.2,
+    "location": "Golf Course Road, Gurgaon",
+    "isOpen": false,
+    "services": ["Oil Change", "Battery", "AC Repair"],
+    "workingHours": "10:00 AM - 6:00 PM",
+    "phoneNumber": "+91 9876543219"
+  },
+  {
+    "id": 11,
+    "name": "Rapid Repair Point",
+    "rating": 4.5,
+    "distance": 4.7,
+    "location": "Sector 52, Gurgaon",
+    "isOpen": true,
+    "services": ["Brake", "Engine", "Car Service"],
+    "workingHours": "9:00 AM - 8:00 PM",
+    "phoneNumber": "+91 9876543220"
+  },
+  {
+    "id": 12,
+    "name": "Drive Safe Motors",
+    "rating": 4.2,
+    "distance": 5.1,
+    "location": "Palam Vihar, Gurgaon",
+    "isOpen": true,
+    "services": ["Tyre", "Brake", "Battery"],
+    "workingHours": "9:30 AM - 7:30 PM",
+    "phoneNumber": "+91 9876543221"
+  },
+  {
+    "id": 13,
+    "name": "Smart Auto Garage",
+    "rating": 4.6,
+    "distance": 2.1,
+    "location": "Sector 15, Gurgaon",
+    "isOpen": false,
+    "services": ["Car Service", "AC Repair", "Engine"],
+    "workingHours": "10:00 AM - 7:00 PM",
+    "phoneNumber": "+91 9876543222"
+  },
+  {
+    "id": 14,
+    "name": "City Bike Care",
+    "rating": 4.3,
+    "distance": 3.5,
+    "location": "Sector 31, Gurgaon",
+    "isOpen": true,
+    "services": ["Bike Service", "Bike Tyre", "Battery"],
+    "workingHours": "8:00 AM - 8:00 PM",
+    "phoneNumber": "+91 9876543223"
+  },
+  {
+    "id": 15,
+    "name": "Prime Car Solutions",
+    "rating": 4.7,
+    "distance": 6.8,
+    "location": "Udyog Vihar, Gurgaon",
+    "isOpen": true,
+    "services": ["Car Service", "Engine", "Oil Change"],
+    "workingHours": "9:00 AM - 9:00 PM",
+    "phoneNumber": "+91 9876543224"
+  },
+  {
+    "id": 16,
+    "name": "Fast Lane Garage",
+    "rating": 4.4,
+    "distance": 4.4,
+    "location": "Sector 40, Gurgaon",
+    "isOpen": false,
+    "services": ["Tyre", "Wheel Alignment", "Brake"],
+    "workingHours": "9:30 AM - 6:30 PM",
+    "phoneNumber": "+91 9876543225"
+  },
+  {
+    "id": 17,
+    "name": "Reliable Motors",
+    "rating": 4.1,
+    "distance": 7.1,
+    "location": "Sector 57, Gurgaon",
+    "isOpen": true,
+    "services": ["Car Service", "Battery", "Towing"],
+    "workingHours": "8:00 AM - 8:00 PM",
+    "phoneNumber": "+91 9876543226"
+  },
+  {
+    "id": 18,
+    "name": "Perfect Auto Repair",
+    "rating": 4.8,
+    "distance": 2.9,
+    "location": "Sector 50, Gurgaon",
+    "isOpen": true,
+    "services": ["AC Repair", "Engine", "Brake"],
+    "workingHours": "9:00 AM - 8:30 PM",
+    "phoneNumber": "+91 9876543227"
+  },
+  {
+    "id": 19,
+    "name": "Roadside Rescue Garage",
+    "rating": 4.0,
+    "distance": 9.4,
+    "location": "Manesar, Gurgaon",
+    "isOpen": true,
+    "services": ["Towing", "Tyre", "Battery"],
+    "workingHours": "7:00 AM - 11:00 PM",
+    "phoneNumber": "+91 9876543228"
+  },
+  {
+    "id": 20,
+    "name": "Elite Vehicle Care",
+    "rating": 4.6,
+    "distance": 5.5,
+    "location": "Sector 65, Gurgaon",
+    "isOpen": false,
+    "services": ["Car Service", "Oil Change", "Wheel Alignment"],
+    "workingHours": "10:00 AM - 7:00 PM",
+    "phoneNumber": "+91 9876543229"
+  }
+]
+
