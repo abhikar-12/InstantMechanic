@@ -1,7 +1,12 @@
 # InstantMechanic
 InstantMechanic is a SwiftUI iOS application that allows users to browse nearby mechanics and submit service requests.
 
-##Demo
+## Demo
+
+
+https://github.com/user-attachments/assets/62f561e7-350c-4974-82b7-8529b1a7d050
+
+
 
 ## ScreenShot
 <img width="250" height="400" alt="Simulator Screenshot - iPhone 17 Pro - 2026-09-03 at 08 28 51" src="https://github.com/user-attachments/assets/fe38d431-7bac-4efb-84ff-178a29074921" />
